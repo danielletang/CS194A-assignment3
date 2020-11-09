@@ -22,9 +22,12 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough with Internet connection:
+
 <img src='https://github.com/danielletang/CS194A-assignment3/blob/main/gif1.gif' title='Search' width='' alt='Video Walkthrough' />
 
+
 And here's a walkthrough without Internet connection:
+
 <img src='https://github.com/danielletang/CS194A-assignment3/blob/main/gif2.gif' title='Check Internet' width='' alt='Video Walkthrough' />
 
 GIF created with [EZGIF](https://ezgif.com/video-to-gif/).
